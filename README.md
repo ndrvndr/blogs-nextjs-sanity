@@ -12,6 +12,11 @@ Built with the tools and technologies:
 
 ---
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=ndrvndr/blogs-nextjs-sanity@github)](https://gitads.dev/v1/ad-track?source=ndrvndr/blogs-nextjs-sanity@github)
+
+---
+
 ## 📜 Table of Contents
 
 * [Overview](#overview)
